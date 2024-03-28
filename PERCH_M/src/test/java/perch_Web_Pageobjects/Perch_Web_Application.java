@@ -124,6 +124,8 @@ public class Perch_Web_Application extends BaseClass{
 	 public void AddLocationB() {
 		 
 		 locationadd.click();
+		 
+		//sgfcgfc
 	 }
 	 
 	 
